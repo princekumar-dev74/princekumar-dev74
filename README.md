@@ -1,7 +1,7 @@
 # Hello, I'm Prince Kumar! 👋
-
+<br>
 # 💫 About Me:
-I am a passionate web developer. <br>I enjoy building responsive and user-friendly web application. 
+I am a passionate web developer. <br>I enjoy building responsive and user-friendly web application. <br>👨‍💻 Programmer by logic, Hacker by curiosity 💡 Breaking limits, not laws 🚀 Code • Hack • Learn • Repeat
 
 
 ## 🌐 Socials:

@@ -1,8 +1,11 @@
-# Hello, I'm Prince Kumar! 👋
-<br>
-# 💫 About Me:
-I am a passionate web developer. <br>I enjoy building responsive and user-friendly web application. <br>👨‍💻 Programmer by logic, Hacker by curiosity 💡 Breaking limits, not laws 🚀 Code • Hack • Learn • Repeat
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/assets/top_img.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/assets/top_img.gif" />
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Webkaizen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WebKaizenDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webkaizenofficial@gmail.com) 

@@ -51,7 +51,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/2024.jpg" />
 
 <p>&emsp;&emsp;Hi, I'm Prince. I love programming, Sports, reading Manga, and traveling.</p>
-<p>&emsp;&emsp;Passionate about Programming and Ethical Hacking but actually i'm a Biology student, &emsp;  I aspire to become an excellent developer.</p>
+<p>&emsp;&emsp;Passionate about Programming and Ethical Hacking but actually i'm a Biology student, I aspire to become an excellent developer.</p>
 <p>&emsp;&emsp;👨‍💻 Programmer by logic, Hacker by curiosity 💡 Breaking limits, not laws 🚀 Code • Hack • Learn • Repeat</p>
 
 </tr></td>

@@ -28,18 +28,6 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
 </picture>
 
-<div>
-<table style="margin-top: 20px;">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/pay.jpeg" width="250px"  alt="alipay" style="border-radius:10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 #  🙋 Hello
 
 <table>

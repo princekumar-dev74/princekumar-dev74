@@ -8,7 +8,7 @@
 </picture>
 
 <div>
-  <a href="https://x.com/WebKaizen23999?t=feFZG9MGPMyzoDsC0E_eYA&s=09"><img src="https://img.shields.io/badge/Telegram-Click-blue" /></a>&emsp;
+  <a href="https://t.me/web_kaizen_official"><img src="https://img.shields.io/badge/Telegram-Click-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@WebKaizenDev"><img src="https://img.shields.io/badge/YouTube-Click-c32136" /></a>&emsp;
   <a href="https://www.instagram.com/webkaizen?igsh=MW9uMDk5MXplOXByOA=="><img src="https://img.shields.io/badge/Instagram-Click-8c36db" /></a>&emsp;
   <a href="https://princekumar-dev74.github.io/WEBKAIZEN-SHOP/"><img src="https://img.shields.io/badge/Website-Click-07c160" /></a>&emsp;

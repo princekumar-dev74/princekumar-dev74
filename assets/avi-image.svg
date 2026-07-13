@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="875" viewBox="0 0 840 875" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#060606"/>
-    <stop offset="1" stop-color="#000000"/>
+    <stop offset="0" stop-color="#0d1117"/>
+    <stop offset="1" stop-color="#0d1117"/>
   </linearGradient>
   <linearGradient id="scanGlow" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#39d353" stop-opacity="0"/>
@@ -26,12 +26,12 @@
 </defs>
 
 <rect width="840" height="875" rx="12" fill="url(#bg)"/>
-<rect x=".5" y=".5" width="839" height="874" rx="12" fill="none" stroke="#1a1a1a"/>
-<line x1="0" y1="30" x2="840" y2="30" stroke="#1a1a1a"/>
+<rect x=".5" y=".5" width="839" height="874" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/>
 <circle cx="20" cy="15" r="5" fill="#ff5f56"/>
 <circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
 <circle cx="52" cy="15" r="5" fill="#27c93f"/>
-<text x="420" y="19" fill="#2a2a2a" font-size="12" text-anchor="middle">princekumar-dev74@github: ~$ ./portrait.sh</text>
+<text x="420" y="19" fill="#8b949e" font-size="12" text-anchor="middle">princekumar-dev74@github: ~$ ./portrait.sh</text>
 
 <g mask="url(#revealMask)" clip-path="url(#artArea)">
   <text xml:space="preserve" x="20" y="48.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text>
@@ -41,33 +41,33 @@
   <text xml:space="preserve" x="20" y="108.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     :=*ss*csssscsssss#sss#sc**=                                    </text>
   <text xml:space="preserve" x="20" y="123.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                    =*ccc*cscss*s#ss%#sccssscssc*=:                                 </text>
   <text xml:space="preserve" x="20" y="138.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                `:-*###**cs*s#s##ccs#sc*###sssssssc*:                               </text>
-  <text xml:space="preserve" x="20" y="153.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              :=*c###%cc%#c#%%%#cccsssssscsssss###ssc:                              </text>
-  <text xml:space="preserve" x="20" y="168.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              +cs%#ss#c#%s#%@%%#scs#%%s+cscs##ssccsccc+                             </text>
-  <text xml:space="preserve" x="20" y="183.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             :+s#%%s#%c#%%%@%%%%s+#%@#c#%ss##ssss###scsc                            </text>
-  <text xml:space="preserve" x="20" y="198.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             +s#%%%%#%%#%%%@@%%%#c%@##@@s*ssc##cc##sscc#+                           </text>
-  <text xml:space="preserve" x="20" y="213.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                            -ssss%%#%#%#####s#%%%#%%%@%%**#%%s*c######sc+                           </text>
-  <text xml:space="preserve" x="20" y="228.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                            -css###%%%s*+++==*ss%%%%%%%#c#@%#s#c*s##s##c:                           </text>
+  <text xml:space="preserve" x="20" y="153.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               :=*c###%cc%#c#%%%#cccsssssscsssss###ssc:                              </text>
+  <text xml:space="preserve" x="20" y="168.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               +cs%#ss#c#%s#%@%%#scs#%%s+cscs##ssccsccc+                             </text>
+  <text xml:space="preserve" x="20" y="183.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              :+s#%%s#%c#%%%@%%%%s+#%@#c#%ss##ssss###scsc                            </text>
+  <text xml:space="preserve" x="20" y="198.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              +s#%%%%#%%#%%%@@%%%#c%@##@@s*ssc##cc##sscc#+                           </text>
+  <text xml:space="preserve" x="20" y="213.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             -ssss%%#%#%#####s#%%%#%%%@%%**#%%s*c######sc+                           </text>
+  <text xml:space="preserve" x="20" y="228.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             -css###%%%s*+++==*ss%%%%%%%#c#@%#s#c*s##s##c:                           </text>
   <text xml:space="preserve" x="20" y="243.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             cs#%%###s+=-::::--*sss##%###%%%%%s*c###s#sc:                           </text>
   <text xml:space="preserve" x="20" y="258.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             =##%%scsc+:`       =*ccsssscs%%%#scc##scss+                            </text>
   <text xml:space="preserve" x="20" y="273.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              *###c#c+-:         :--====++*cssc*c#scs%c                             </text>
   <text xml:space="preserve" x="20" y="288.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              :s#scs-::-+*+=               :-====css%#                              </text>
   <text xml:space="preserve" x="20" y="303.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               =scc=:-+csss###s=-      :=*cccsc*=-ss#-                              </text>
   <text xml:space="preserve" x="20" y="318.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                csc-:==---==cssc*:    =ccc+=-:-++:*#+                               </text>
-  <text xml:space="preserve" x="20" y="333.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              : :*s-::=*#cc%%*cc*-  :*cc+csc+*+---*s:::                             </text>
-  <text xml:space="preserve" x="20" y="348.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             :   :c-::-=***cc**c*=  =csc=+c*+c*=--*+ :                              </text>
-  <text xml:space="preserve" x="20" y="363.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             :`  =+--:   `::---=+=: =cs*+-:::::-==+* :                             </text>
-  <text xml:space="preserve" x="20" y="378.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              -   ++-:        :*=    +#s-:      ==+=  -                             </text>
-  <text xml:space="preserve" x="20" y="393.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                              ----c+-:        -::-  `+-*=      :-+c*=-                              </text>
+  <text xml:space="preserve" x="20" y="333.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               : :*s-::=*#cc%%*cc*-  :*cc+csc+*+---*s:::                             </text>
+  <text xml:space="preserve" x="20" y="348.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               :   :c-::-=***cc**c*=  =csc=+c*+c*=--*+ :                             </text>
+  <text xml:space="preserve" x="20" y="363.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               :`  =+--:   `::---=+=: =cs*+-:::::-==+* :                             </text>
+  <text xml:space="preserve" x="20" y="378.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               -   ++-:        :*=    +#s-:      ==+=  -                             </text>
+  <text xml:space="preserve" x="20" y="393.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               ----c+-:        -::-  `+-*=      :-+c*=-                              </text>
   <text xml:space="preserve" x="20" y="408.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                -`:+*=-:       :=*+--*c==-      -=*c==-                             </text>
   <text xml:space="preserve" x="20" y="423.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                  :+=-:      -=++=+=+ss*=:    :=+*=::                               </text>
   <text xml:space="preserve" x="20" y="438.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                   -+-::   =**********ccc*+: :-=*:                                  </text>
-  <text xml:space="preserve" x="20" y="453.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                    +=:::  =+csc*=+++cs#c==::--+=                                   </text>
+  <text xml:space="preserve" x="20" y="453.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                    +=:::  =+csc*=+++cs#c==::--+=                                    </text>
   <text xml:space="preserve" x="20" y="468.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     +=-::``  :--:-::-=-::::-=++                                    </text>
   <text xml:space="preserve" x="20" y="483.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     +**+=-`            ::-=+*c:                                    </text>
   <text xml:space="preserve" x="20" y="498.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     ++*ssc+:          :-+csssc                                     </text>
   <text xml:space="preserve" x="20" y="513.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     ++==c##sc+-     -+cs###cc*:                                    </text>
   <text xml:space="preserve" x="20" y="528.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                   +:=+=--+cssssccsss##%%#s**c+-c                                   </text>
-  <text xml:space="preserve" x="20" y="543.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                                :#* *+=---+**+=--==*csss*++*** s#=                                 </text>
+  <text xml:space="preserve" x="20" y="543.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               :#* *+=---+**+=--==*csss*++*** s#=                                 </text>
   <text xml:space="preserve" x="20" y="558.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                               :c##  *+=--::=+=--::-++*c+==++c* =%#c=                               </text>
   <text xml:space="preserve" x="20" y="573.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                             -c###s  :c=-::  --::----=++--==+c  =%###sc*=:                          </text>
   <text xml:space="preserve" x="20" y="588.1" fill="#39d353" font-size="12.9" textLength="800" lengthAdjust="spacing">                         =*s######s   +*-:    :    `-==---=+c=  *%#####%##s*=:                      </text>
@@ -101,8 +101,8 @@
   </line>
 </g>
 
-<line x1="0" y1="832" x2="840" y2="832" stroke="#1a1a1a"/>
-<text x="20" y="851" fill="#2a2a2a" font-size="13">princekumar-dev74@github:~$ whoami <tspan fill="#39d353">princekumar-dev74</tspan></text>
+<line x1="0" y1="832" x2="840" y2="832" stroke="#30363d"/>
+<text x="20" y="851" fill="#8b949e" font-size="13">princekumar-dev74@github:~$ whoami <tspan fill="#39d353">princekumar-dev74</tspan></text>
 <rect x="216" y="839" width="8" height="14" fill="#39d353">
   <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
 </rect>
